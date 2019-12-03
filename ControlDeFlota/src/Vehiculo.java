@@ -1,5 +1,7 @@
 public class Vehiculo {
 	//Autor: Jorge Rios Sanchez
+	
+	//Descripción: vehículo perteneciente a una flota de vehículos
 	private String matricula;
 	private String fabricante;
 	private String modelo;
