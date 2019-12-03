@@ -1,4 +1,5 @@
 public class Vehiculo {
+	//Autor: Jorge Rios Sanchez
 	private String matricula;
 	private String fabricante;
 	private String modelo;
